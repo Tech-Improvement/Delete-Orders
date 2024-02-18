@@ -72,3 +72,9 @@
 </div>
 <h2><strong>Support</strong></h2>
 <p>For any issues or feature requests, please contact the module developer at <a title="info@techimprovement.com" href="mailto:info@techimprovement.com">info@techimprovement.com</a>.</p>
+
+## Support Our Project
+
+<p>If you find this project helpful, consider supporting us with a donation by clicking this button <a href="https://paypal.me/AnduelHoxha?country.x=US&locale.x=en_US"><img width="150" src="Donate-button.png"></a> or scan the QR code below:</p>
+
+![Donate QR Code](qrcode.png)
